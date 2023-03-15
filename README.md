@@ -12,7 +12,9 @@ Blackmarket system for QB-Core
 
 # Requirements:
 QB-Core
+
 OX-lib
+
 OX-Target / QB-Target
 
 Feel free to comit support for more frameworks! :D 
