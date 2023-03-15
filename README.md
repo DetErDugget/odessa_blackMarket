@@ -17,4 +17,4 @@ OX-lib
 
 OX-Target / QB-Target
 
-# Feel free to comit support for more frameworks! :D 
+# Feel free to comit support for more frameworks/inventories! :D 
