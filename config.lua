@@ -1,6 +1,6 @@
 Config = {}
 Config.Locale = {}
-
+Config.AllowEveryone = false -- True = Allow everyone to use the shop. False = Only allow gangs to use the shop
 Config.Items = {
     ["WEAPON_PISTOL"] = {amount = 1, price = 59499, restockTimer = 3}, -- Restock timer is in hours
     ["PISTOL_SUPPRESSOR"] = {amount = 1, price = 8888, restockTimer = 3},
