@@ -85,7 +85,7 @@ end)
 
 RegisterNetEvent('odessa_blackMarket:client:1', function()
     local MenuOptions = {}
-    if QBCore.Functions.GetPlayerData().gang.name ~= "none" then
+    if QBCore.Functions.GetPlayerData().gang.name ~= "none" or Config.AllowEveryone then
         if isConfigLoaded then
             for k,v in pairs(Config.Items) do
                 print(k)
