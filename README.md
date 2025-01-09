@@ -6,7 +6,7 @@ Blackmarket system for QB-Core
  - Add any item or weapon with individual price & restock timer
  - Only gang members can access the blackmarket
  - Language config. Change language really quick ! ( It already supports English & Danish )
- - Tested on a server with up to 90~ players with no issued
+ - Tested on a server with up to 150~ players with no issues
  - Security: the config is serverside, and only one person is allowed at a time.
  - 0.0 ms at all times.
 
